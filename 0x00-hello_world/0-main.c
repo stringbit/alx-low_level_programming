@@ -1,8 +1,7 @@
-#!/bin/bash
+# !/ bin/ bash
 #include <stdio.h>
 
-int main (void)
+int main(void)
 {
-	printf("Hello World");
 	return(0);
 }
